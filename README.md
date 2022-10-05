@@ -37,7 +37,7 @@ The results we obtained by applying different classification models are in the f
 
 
 
-# ACCURAY CHART:
+# ACCURACY CHART:
 
     
 ![](img/06.png)
